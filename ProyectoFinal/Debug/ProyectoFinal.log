@@ -1,0 +1,31 @@
+﻿  MainPrueba.cpp
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(446,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(524,86): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(525,90): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(689,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(785,11): warning C4244: 'argumento': conversión de 'double' a 'DWORD'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(859,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(860,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(864,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(865,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(867,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(868,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(877,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(878,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(887,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(888,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(897,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(898,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(907,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(908,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(920,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(921,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(931,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(932,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(942,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(943,21): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(953,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(954,21): warning C4305: '-=': truncamiento de 'double' a 'float'
+  ProyectoFinal.vcxproj -> D:\CGIHC\315569131_PROYECTOFINAL2023-1_GPO6\ProyectoFinal\Debug\ProyectoFinal.exe
